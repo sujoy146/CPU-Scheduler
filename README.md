@@ -28,7 +28,7 @@ This project was developed as part of an **Operating Systems course** assignment
 
 ## 📷 Demo Screenshots
 
-<img width="584" height="461" alt="CPU Scheduling" src="imasges/Screenshot 2025-08-09 162020.png" />
+<img width="584" height="461" src="images/Screenshot 2025-08-09 162020.png" alt="Project Screenshot" />
 
 ![Screenshot ]
 
