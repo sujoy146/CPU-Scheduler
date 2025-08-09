@@ -27,7 +27,6 @@ public class SchedulerGUI extends JFrame {
         topPanel.add(algorithmCombo);
         add(topPanel, BorderLayout.NORTH);
 
-        // Center panel for input
         JPanel centerPanel = new JPanel(new BorderLayout());
         centerPanel.add(new JLabel("Enter processes (name,burst,arrival,priority):"), BorderLayout.NORTH);
         inputArea = new JTextArea(8, 40);

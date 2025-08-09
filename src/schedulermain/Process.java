@@ -13,6 +13,7 @@ class Process implements Comparable<Process> {
         this.priority = priority;
     }
 
+
     @Override
     public int compareTo(Process other) {
         // Higher priority processes come first
