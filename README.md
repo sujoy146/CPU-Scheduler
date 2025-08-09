@@ -1,4 +1,4 @@
-# CPU-Scheduling-Algorithms
+# CPU-Scheduler
 
 # CPU Scheduling Algorithms Visualizer
 
@@ -15,7 +15,6 @@ This project was developed as part of an **Operating Systems course** assignment
   - **Non-Preemptive Priority**
   - **Preemptive Priority**
 - Displays key metrics like:
-  - Gantt chart
   - Average waiting time
   - Turnaround time
   - CPU utilization
@@ -24,13 +23,15 @@ This project was developed as part of an **Operating Systems course** assignment
 
 - Java
 - Swing (for GUI)
-- NetBeans (optional for building/running)
 
 ## 📷 Demo Screenshots
-
+ - Select Scheduling Algo
 <img width="584" height="461" src="images/Screenshot 2025-08-09 162020.png" alt="Project Screenshot" />
+ - Put required values
+<img width="584" height="461" src="images/Screenshot 2025-08-09 162043.png" alt="Project Screenshot" />
+ - Check the result
+<img width="584" height="461" src="images/Screenshot 2025-08-09 162054.png" alt="Project Screenshot" />  
 
-![Screenshot ]
 
 ## 📁 Project Structure
 
@@ -38,6 +39,7 @@ This project was developed as part of an **Operating Systems course** assignment
 
 CPU-Scheduler/
 ├── .idea/
+├── images/
 ├── src/
 │   └── schedulermain/
 │       ├── FCFS.java
@@ -61,7 +63,7 @@ CPU-Scheduler/
 
 2. Compile and run the application:
 
-   * Using an IDE (like **NetBeans** or **IntelliJ**)
+   * Using an IDE (like **IntelliJ**)
    * Or from terminal:
 
 
